@@ -1,4 +1,4 @@
-import{j as n,S as e}from"./Slide-fbc68499.js";import{M as c}from"./index-a8ede395.js";import{S as d}from"./sphere.drawio-40f80a6e.js";import{u as r}from"./index-6918eb94.js";import"./index-830432d5.js";import"./iframe-b34bb04c.js";import"../sb-preview/runtime.js";function l(s){const i=Object.assign({p:"p",ul:"ul",li:"li",code:"code"},r(),s.components);return n.jsxs(n.Fragment,{children:[n.jsx(c,{title:"図形/球の体積"}),`
+import{j as n,S as e}from"./Slide-0b937f4e.js";import{M as c}from"./index-d396f101.js";import{S as d}from"./sphere.drawio-40f80a6e.js";import{u as r}from"./index-6918eb94.js";import"./index-830432d5.js";import"./iframe-9cd37c4b.js";import"../sb-preview/runtime.js";function l(s){const i=Object.assign({p:"p",ul:"ul",li:"li",code:"code"},r(),s.components);return n.jsxs(n.Fragment,{children:[n.jsx(c,{title:"図形/球の体積"}),`
 `,n.jsx(e,{src:d,layout:"fullscreen"}),`
 `,n.jsxs("details",{children:[n.jsx("summary",{children:"説明文"}),n.jsx(i.p,{children:"球の体積"}),n.jsxs(i.ul,{children:[`
 `,n.jsxs(i.li,{children:["球の体積: ",n.jsx(i.code,{children:"4/3 \\pi r^3"}),`
@@ -40,4 +40,4 @@ import{j as n,S as e}from"./Slide-fbc68499.js";import{M as c}from"./index-a8ede3
 `]}),`
 `]}),`
 `]})]})]})}function m(s={}){const{wrapper:i}=Object.assign({},r(),s.components);return i?n.jsx(i,Object.assign({},s,{children:n.jsx(l,s)})):l(s)}export{m as default};
-//# sourceMappingURL=SlideGeomSphere-033fd1fe.js.map
+//# sourceMappingURL=SlideGeomSphere-0fd056d9.js.map

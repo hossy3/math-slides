@@ -1,4 +1,4 @@
-import{j as n,S as r}from"./Slide-fbc68499.js";import{M as c}from"./index-a8ede395.js";import{u as e}from"./index-6918eb94.js";import"./index-830432d5.js";import"./iframe-b34bb04c.js";import"../sb-preview/runtime.js";const j=""+new URL("99x99.drawio-56059948.png",import.meta.url).href;function s(i){const l=Object.assign({p:"p",ul:"ul",li:"li"},e(),i.components);return n.jsxs(n.Fragment,{children:[n.jsx(c,{title:"四則演算/2桁の掛け算"}),`
+import{j as n,S as r}from"./Slide-0b937f4e.js";import{M as c}from"./index-d396f101.js";import{u as e}from"./index-6918eb94.js";import"./index-830432d5.js";import"./iframe-9cd37c4b.js";import"../sb-preview/runtime.js";const j=""+new URL("99x99.drawio-56059948.png",import.meta.url).href;function s(i){const l=Object.assign({p:"p",ul:"ul",li:"li"},e(),i.components);return n.jsxs(n.Fragment,{children:[n.jsx(c,{title:"四則演算/2桁の掛け算"}),`
 `,n.jsx(r,{src:j,layout:"fullscreen"}),`
 `,n.jsxs("details",{children:[n.jsx("summary",{children:"説明文"}),n.jsx(l.p,{children:"2桁同士の掛け算 テクニック集"}),n.jsxs(l.ul,{children:[`
 `,n.jsxs(l.li,{children:["前提: ふつうの掛け算は万能",`
@@ -50,4 +50,4 @@ import{j as n,S as r}from"./Slide-fbc68499.js";import{M as c}from"./index-a8ede3
 `]}),`
 `]}),`
 `]})]})]})}function a(i={}){const{wrapper:l}=Object.assign({},e(),i.components);return l?n.jsx(l,Object.assign({},i,{children:n.jsx(s,i)})):s(i)}export{a as default};
-//# sourceMappingURL=SlideOp99-cd2fcb9f.js.map
+//# sourceMappingURL=SlideOp99-80c8a1f1.js.map
